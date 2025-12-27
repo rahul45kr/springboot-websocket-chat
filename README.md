@@ -1,3 +1,5 @@
+<img width="1366" height="768" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/b226f12c-ee51-4bfa-8aec-37b6e8ab016a" />
+<img width="1366" height="768" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/125d5a47-9384-4319-bf33-8e57152e9e47" />
 💬 Real-Time Chat Application using Spring Boot & WebSocket
 
 A real-time chat application built using Spring Boot and WebSocket (STOMP protocol) that enables instant, bi-directional communication between multiple users without page refresh.
